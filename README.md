@@ -1,4 +1,4 @@
-# **numpy.c: Implementation of Numpy using C**
+# **NumPyLiteC: Implementation of Numpy using C**
 
 ## Table of Contents
 * Introduction
