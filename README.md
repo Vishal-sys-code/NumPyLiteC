@@ -1,7 +1,4 @@
-# **numpy.c**
-
-## Implementation of Numpy using C
-
+# **numpy.c: Implementation of Numpy using C**
 
 ## Table of Contents
 * Introduction
