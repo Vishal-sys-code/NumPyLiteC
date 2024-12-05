@@ -11,9 +11,9 @@
 * License
 
 ## Introduction
-Welcome to **`numpy.c`**, a C implementation inspired by NumPy, designed to provide fundamental array operations and utilities. This project aims to offer a lightweight, efficient library for handling arrays and basic numerical computations in C programming language.
+Welcome to **`NumPyLiteC`**, a C implementation inspired by NumPy, designed to provide fundamental array operations and utilities. This project aims to offer a lightweight, efficient library for handling arrays and basic numerical computations in the C programming language.
 
-NumPy, a cornerstone of scientific computing in Python, provides powerful array manipulation capabilities. However, its extensive feature set and dependencies may not always be suitable for resource-constrained environments or specific performance-critical applications. numpy.c seeks to bridge this gap by offering essential functionalities reminiscent of NumPy, tailored for C developers needing efficient numerical operations.
+NumPy, a cornerstone of scientific computing in Python, provides powerful array manipulation capabilities. However, its extensive feature set and dependencies may not always suit resource-constrained environments or specific performance-critical applications. numpy.c seeks to bridge this gap by offering essential functionalities reminiscent of NumPy, tailored for C developers needing efficient numerical operations.
 
 This repository is ideal for developers seeking:
 
@@ -28,14 +28,14 @@ Whether you're building applications that demand low-level control over memory a
 * **Basic Numerical Computations**: Arithmetic and logical operations on arrays.
 * **Memory Management Utilities**: Allocation, reallocation, and deallocation of memory.
 
-Explore **`numpy.c`** to leverage the power of arrays in your C projects, and contribute to its evolution by providing feedback, reporting issues, or contributing enhancements.
+Explore **`NumPyLiteC`** to leverage the power of arrays in your C projects, and contribute to its evolution by providing feedback, reporting issues, or contributing enhancements.
 
 ## Installation
-To use **`numpy.c`**, follow these steps:
+To use **`NumPyLiteC`**, follow these steps:
 * **Clone the Repository:**
 ```bash
-git clone https://github.com/Vishal-sys-code/numpy.c.git
-cd numpy.c
+git clone https://github.com/Vishal-sys-code/NumPyLiteC.git
+cd NumPyLiteC
 ```
 * **Build the Project:** 
 ```
@@ -187,7 +187,7 @@ Tests completed.
 
 
 ## Contributing
-Contributions to **`numpy.c`** are welcome! If you find any bugs, have suggestions, or would like to add new features, please open an issue or submit a pull request.
+Contributions to **`NumPyLiteC`** are welcome! If you find any bugs, have suggestions, or would like to add new features, please open an issue or submit a pull request.
 
 ## LICENSE
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Vishal-sys-code/numpy.c/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Vishal-sys-code/NumPyLiteC/blob/main/LICENSE) file for details.
